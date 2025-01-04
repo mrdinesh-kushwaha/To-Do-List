@@ -38,5 +38,8 @@ Functionality: You can enhance the functionality by adding features such as task
 Troubleshooting
 JavaScript Errors: If you encounter any issues with adding tasks, check the console for any JavaScript errors.
 Styling Issues: Ensure that the style.css file is correctly linked in the index.html file.
+
+![image](https://github.com/user-attachments/assets/7d0f5eaa-4811-4950-b1f0-067f6051df91)
+
 Author
 # Created by Dinesh Kushwaha. All rights reserved.
